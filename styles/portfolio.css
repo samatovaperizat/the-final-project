@@ -60,3 +60,17 @@ p{
     line-height: 27px;
     padding: 15px 30px;
 }
+.project1 {
+    width: 300px;
+    
+    padding: 30px;
+}
+.project2 {
+    width: 400px;
+}
+.project-description{
+    padding: 35px;
+}
+.h2-portfolio{
+    text-align: center;
+}
