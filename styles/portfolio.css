@@ -62,7 +62,7 @@ p{
 }
 .project1 {
     width: 300px;
-    
+
     padding: 30px;
 }
 .project2 {
@@ -73,4 +73,9 @@ p{
 }
 .h2-portfolio{
     text-align: center;
+}
+.profile {
+    width: 340px;
+    
+    padding: 40px;
 }
