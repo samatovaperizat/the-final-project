@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: black;
+    color: #FC28FB;
     font-family: var(--heading-font-family);
     font-weight: bold;
 
@@ -43,7 +43,7 @@ p{
    font-size: 36px;
    font-weight: bold;
    margin: 0;
-   color: #272142;
+   color:#FC28FB;
 
 }
 .hero h2 {
@@ -89,3 +89,4 @@ p{
     }
 
 }
+
