@@ -133,7 +133,8 @@ footer .social-links a:hover{
 footer .email-link-footer{
     font-size: 16px;
 }
-a.btn.btn-primary.primary-link.project-link {
+
+.Weather {
     box-sizing: border-box;
     padding-bottom: 4px;
 }
